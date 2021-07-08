@@ -12,8 +12,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/esralpay/sunnysideChallenge)
-- Live Site URL: [Add live site URL here](https://wonderful-torvalds-79739f.netlify.app)
+- Solution URL: https://github.com/esralpay/sunnysideChallenge
+- Live Site URL:https://wonderful-torvalds-79739f.netlify.app
 
 ## My process
 
@@ -59,16 +57,6 @@ For example
 ### Continued development
 
 css animations
-
-### Useful resources
-
-- [ css resource](https://cssreference.io/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
 
 ## Acknowledgments
 
